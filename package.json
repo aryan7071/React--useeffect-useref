@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "use-ref",
+=======
+  "name": "user-effect",
+>>>>>>> 35539936934c7785514534e036ec4d959ae89fb5
   "private": true,
   "version": "0.0.0",
   "type": "module",
